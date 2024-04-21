@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=flplemos&show_icons=true&theme=vision-friendly-dark" alt="flplemos's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flplemos&layout=compact&theme=vision-friendly-dark" alt="flplemos's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=flplemos&show_icons=true&theme=vision-friendly-dark" alt="flplemos's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flplemos&layout=compact&theme=vision-friendly-dark" alt="flplemos's most languages"/>
 </p>
 
 <br><br>
