@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flplemos&layout=compact&theme=vision-friendly-dark" alt="flplemos's most languages"/>
 </p>
 
-<br><br>
+<br>
 ## Contact
 
 <a href="https://linkedin.com/in/felipelemos777" target="_blank">
