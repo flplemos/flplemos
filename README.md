@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+
 ## Contact
 
 <a href="https://linkedin.com/in/felipelemos777" target="_blank">
