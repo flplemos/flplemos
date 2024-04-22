@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning front-end development skills;
 - 👯  I’m looking to collaborate in website construction projects;
 - 🤔 I’m looking for help with responsive layouts, good code practices, study sources and challenges;
-- 💬 Ask me about Anything LOL;
+- 💬 Ask me about anything LOL;
 - 📫 How to reach me: via LinkedIn, just below the contacts tab;
-- ⚡ Fun fact: PST! 
+- ⚡ Fun fact: PST! ❤️🖤 
 
 
 
