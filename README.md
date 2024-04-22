@@ -2,20 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flplemos&color=green" alt="Profile views" /> </p>
 
-<!--
-**flplemos/flplemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning front-end development skills;
+- 👯  I’m looking to collaborate in website construction projects;
+- 🤔 I’m looking for help with responsive layouts, good code practices, study sources and challenges;
+- 💬 Ask me about Anything LOL;
+- 📫 How to reach me: via LinkedIn, just below the contacts tab;
+- ⚡ Fun fact: PST! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ## 🛠 &nbsp;Tech Stack
