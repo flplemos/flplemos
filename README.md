@@ -42,5 +42,5 @@
 <a href="https://linkedin.com/in/felipelemos777" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-felipelemos777-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-</p>
+
 
