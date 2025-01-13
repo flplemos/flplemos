@@ -39,7 +39,7 @@
 
 ## 👩🏻‍💻 &nbsp;Portfolio
 
-<a href="" target="_blank">Click here to check out my portfolio</a>
+<a href="https://flplemos.github.io/portfolio-flpLemos/" target="_blank">Click here to check out my portfolio</a>
 
 <br>
 
