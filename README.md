@@ -36,7 +36,7 @@
 </p>
 
 <br>
-## 👩🏻‍💻 &nbsp;Portfolio
+## 🛠 &nbsp;Tech Stack
 
 <a href="" target="_blank">Click here to check out my portfolio</a>
 
