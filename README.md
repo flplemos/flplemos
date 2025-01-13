@@ -36,11 +36,13 @@
 </p>
 
 <br>
-## 🛠 &nbsp;Tech Stack
+
+## 👩🏻‍💻 &nbsp;Portfolio
 
 <a href="" target="_blank">Click here to check out my portfolio</a>
 
 <br>
+
 ## 📩 &nbsp;Contact
 
 <a href="https://linkedin.com/in/felipelemos777" target="_blank">
