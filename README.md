@@ -36,11 +36,17 @@
 </p>
 
 <br>
+## 👩🏻‍💻 &nbsp;Portfolio
 
-##  &nbsp;Contact
+<a href="" target="_blank">Click here to check out my portfolio</a>
+
+<br>
+## 📩 &nbsp;Contact
 
 <a href="https://linkedin.com/in/felipelemos777" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-felipelemos777-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+
+
 
 
