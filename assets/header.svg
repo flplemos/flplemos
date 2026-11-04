@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Felipe Lemos — Desenvolvedor Mendix na TrueChange">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#0F172A" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glowG" cx="0.82" cy="0.25" r="0.55">
+      <stop offset="0" stop-color="#22C55E" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.1" cy="1" r="0.6">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#BBF7D0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="340" rx="20"/></clipPath>
+
+    <!-- typing clips: one per phrase, 16s loop (4s each) -->
+    <clipPath id="t0"><rect x="0" y="0" height="40" width="0">
+      <animate attributeName="width" dur="16s" repeatCount="indefinite" calcMode="discrete"
+        keyTimes="0;0.02;0.04;0.06;0.08;0.10;0.12;0.20;0.22;0.24;1"
+        values="0;60;120;180;240;300;360;300;150;0;0"/></rect></clipPath>
+    <clipPath id="t1"><rect x="0" y="0" height="40" width="0">
+      <animate attributeName="width" dur="16s" repeatCount="indefinite" calcMode="discrete"
+        keyTimes="0;0.25;0.27;0.29;0.31;0.33;0.35;0.37;0.45;0.47;0.49;1"
+        values="0;0;60;120;180;240;300;370;300;150;0;0"/></rect></clipPath>
+    <clipPath id="t2"><rect x="0" y="0" height="40" width="0">
+      <animate attributeName="width" dur="16s" repeatCount="indefinite" calcMode="discrete"
+        keyTimes="0;0.50;0.52;0.54;0.56;0.58;0.60;0.62;0.70;0.72;0.74;1"
+        values="0;0;60;120;180;240;300;350;300;150;0;0"/></rect></clipPath>
+    <clipPath id="t3"><rect x="0" y="0" height="40" width="0">
+      <animate attributeName="width" dur="16s" repeatCount="indefinite" calcMode="discrete"
+        keyTimes="0;0.75;0.77;0.79;0.81;0.83;0.85;0.93;0.95;0.97;1"
+        values="0;0;60;120;180;240;290;240;120;0;0"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="#020617"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect width="1200" height="340" fill="url(#glowG)"/>
+    <rect width="1200" height="340" fill="url(#glowB)"/>
+
+    <!-- window chrome -->
+    <rect width="1200" height="44" fill="#0E1223" fill-opacity="0.85"/>
+    <line x1="0" y1="44" x2="1200" y2="44" stroke="#F8FAFC" stroke-opacity="0.08"/>
+    <circle cx="28" cy="22" r="6" fill="#EF4444" fill-opacity="0.85"/>
+    <circle cx="48" cy="22" r="6" fill="#F59E0B" fill-opacity="0.85"/>
+    <circle cx="68" cy="22" r="6" fill="#22C55E" fill-opacity="0.85"/>
+    <text x="600" y="27" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#94A3B8">felipe@natal-rn: ~/portfolio</text>
+
+    <g font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace">
+      <text x="56" y="96" font-size="16" fill="#94A3B8"><tspan fill="#22C55E">❯</tspan> whoami</text>
+
+      <text x="56" y="160" font-size="54" font-weight="700" fill="url(#name)" letter-spacing="-1">Felipe Lemos</text>
+
+      <text x="56" y="198" font-size="18" fill="#CBD5E1">Desenvolvedor Mendix <tspan fill="#22C55E">@</tspan> TrueChange <tspan fill="#334155">·</tspan> <tspan fill="#94A3B8">Natal, RN — Brasil</tspan></text>
+
+      <!-- typed line -->
+      <text x="56" y="250" font-size="22" fill="#22C55E">&gt;</text>
+      <g transform="translate(84,226)">
+        <g clip-path="url(#t0)"><text y="24" font-size="22" fill="#38BDF8">Desenvolvedor Full-Stack</text></g>
+        <g clip-path="url(#t1)"><text y="24" font-size="22" fill="#38BDF8">Especialista em Automação</text></g>
+        <g clip-path="url(#t2)"><text y="24" font-size="22" fill="#38BDF8">IA: RAG &amp; Multi-Agentes</text></g>
+        <g clip-path="url(#t3)"><text y="24" font-size="22" fill="#38BDF8">Low-Code com Mendix</text></g>
+      </g>
+
+      <!-- focus chips -->
+      <g font-size="13" fill="#BBF7D0">
+        <g transform="translate(56,280)"><rect width="74" height="30" rx="15" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-opacity="0.3"/><text x="37" y="20" text-anchor="middle">React</text></g>
+        <g transform="translate(140,280)"><rect width="90" height="30" rx="15" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-opacity="0.3"/><text x="45" y="20" text-anchor="middle">Node.js</text></g>
+        <g transform="translate(240,280)"><rect width="82" height="30" rx="15" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-opacity="0.3"/><text x="41" y="20" text-anchor="middle">Python</text></g>
+        <g transform="translate(332,280)"><rect width="82" height="30" rx="15" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-opacity="0.3"/><text x="41" y="20" text-anchor="middle">Mendix</text></g>
+        <g transform="translate(424,280)"><rect width="60" height="30" rx="15" fill="#22C55E" fill-opacity="0.1" stroke="#22C55E" stroke-opacity="0.3"/><text x="30" y="20" text-anchor="middle">n8n</text></g>
+        <g transform="translate(494,280)"><rect width="60" height="30" rx="15" fill="#38BDF8" fill-opacity="0.1" stroke="#38BDF8" stroke-opacity="0.35"/><text x="30" y="20" text-anchor="middle" fill="#BAE6FD">RAG</text></g>
+      </g>
+    </g>
+
+    <!-- orbit motif (nod to the 3D scene in the portfolio) -->
+    <g transform="translate(965,192)" fill="none">
+      <circle r="118" stroke="#334155" stroke-opacity="0.6" stroke-dasharray="2 8"/>
+      <ellipse rx="118" ry="44" stroke="#22C55E" stroke-opacity="0.35">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse rx="118" ry="44" stroke="#38BDF8" stroke-opacity="0.3" transform="rotate(60)">
+        <animateTransform attributeName="transform" type="rotate" from="60" to="-300" dur="34s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse rx="118" ry="44" stroke="#F8FAFC" stroke-opacity="0.12" transform="rotate(120)"/>
+      <circle r="34" fill="#0E1223" stroke="#22C55E" stroke-opacity="0.6"/>
+      <text y="7" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="20" font-weight="700" fill="#22C55E">FL</text>
+      <g>
+        <circle cx="118" cy="0" r="5" fill="#22C55E"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <circle cx="0" cy="-118" r="4" fill="#38BDF8"/>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- blinking status -->
+    <g transform="translate(1040,316)" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="12" fill="#94A3B8">
+      <circle cx="0" cy="-4" r="4" fill="#22C55E"><animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/></circle>
+      <text x="12" y="0">open to collab</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="20" fill="none" stroke="#F8FAFC" stroke-opacity="0.1"/>
+</svg>
