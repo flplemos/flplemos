@@ -1,9 +1,9 @@
-<a href="https://fl-portfolio-seven.vercel.app">
+<a href="https://fl.dev.br">
   <img src="./assets/header.svg" width="100%" alt="Felipe Lemos — Desenvolvedor Mendix na TrueChange · Full-Stack · Automação · IA (RAG & Multi-Agentes)" />
 </a>
 
 <p align="center">
-  <a href="https://fl-portfolio-seven.vercel.app"><img src="https://img.shields.io/badge/portfolio-fl--portfolio-22C55E?style=for-the-badge&labelColor=0E1223&logo=vercel&logoColor=F8FAFC" alt="Portfolio" /></a>
+  <a href="https://fl.dev.br"><img src="https://img.shields.io/badge/portfolio-fl.dev.br-22C55E?style=for-the-badge&labelColor=0E1223&logo=vercel&logoColor=F8FAFC" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/felipelemos777"><img src="https://img.shields.io/badge/linkedin-felipelemos777-38BDF8?style=for-the-badge&labelColor=0E1223&logo=linkedin&logoColor=F8FAFC" alt="LinkedIn" /></a>
   <a href="mailto:flplemos@outlook.com"><img src="https://img.shields.io/badge/email-flplemos@outlook.com-94A3B8?style=for-the-badge&labelColor=0E1223&logo=maildotru&logoColor=F8FAFC" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=flplemos&label=views&color=22C55E&style=for-the-badge" alt="Profile views" />
@@ -109,19 +109,22 @@ local:     Natal, RN — Brasil
   </tr>
 </table>
 
-<sub>Mais: <a href="https://github.com/flplemos/shorts-summary">Shorts Summary</a> (resumo de vídeos com IA · Node.js + Transformers) · <a href="https://github.com/flplemos/pokedex">Pokédex Felps Edition</a> (PokéAPI + Chart.js) · <a href="https://fl-portfolio-seven.vercel.app/#projetos">ver todos no portfolio →</a></sub>
+<sub>Mais: <a href="https://github.com/flplemos/shorts-summary">Shorts Summary</a> (resumo de vídeos com IA · Node.js + Transformers) · <a href="https://github.com/flplemos/pokedex">Pokédex Felps Edition</a> (PokéAPI + Chart.js) · <a href="https://fl.dev.br/#projetos">ver todos no portfolio →</a></sub>
 
 ---
 
 ### `$ github --stats`
 
 <p align="center">
-  <img src="./assets/stats.svg" width="49%" alt="Estatísticas do GitHub" />
-  <img src="./assets/languages.svg" width="49%" alt="Linguagens mais usadas" />
+  <img src="./assets/stats.svg" width="100%" alt="GitHub stats: contributions, commits, streaks and weekly activity" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flplemos/flplemos/output/snake.svg" width="100%" alt="Snake comendo o gráfico de contribuições" />
+  <img src="./assets/languages.svg" width="100%" alt="Top languages by code size" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flplemos/flplemos/output/snake.svg" width="100%" alt="Snake eating the contribution graph" />
 </p>
 
 ---

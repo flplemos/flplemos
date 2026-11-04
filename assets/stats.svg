@@ -1,80 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="github --stats">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="GitHub stats for flplemos: 152 contributions in the last 12 months">
+  <title>GitHub stats for flplemos: 152 contributions in the last 12 months</title>
   <defs>
-    <radialGradient id="g" cx="1" cy="0" r="0.9">
-      <stop offset="0" stop-color="#22C55E" stop-opacity="0.12"/><stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+    <radialGradient id="g" cx="1" cy="0" r="0.8">
+      <stop offset="0" stop-color="#22C55E" stop-opacity="0.10"/><stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="0.5" y="0.5" width="599" height="299" rx="16" fill="#020617" stroke="#F8FAFC" stroke-opacity="0.1"/>
-  <rect x="0.5" y="0.5" width="599" height="299" rx="16" fill="url(#g)"/>
-  <text x="28" y="40" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" fill="#94A3B8"><tspan fill="#22C55E">❯</tspan> github --stats</text>
-  <text x="28" y="92" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#22C55E">152</text>
-  <text x="28" y="114" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">contribuições (12m)</text>
-  <text x="166" y="92" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#F8FAFC">139</text>
-  <text x="166" y="114" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">commits (12m)</text>
-  <text x="304" y="92" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#F8FAFC">42</text>
-  <text x="304" y="114" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">repositórios</text>
-  <text x="442" y="92" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#F8FAFC">2</text>
-  <text x="442" y="114" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">pull requests</text>
-  <text x="28" y="162" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#38BDF8">0d</text>
-  <text x="28" y="184" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">streak atual</text>
-  <text x="166" y="162" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#F8FAFC">3d</text>
-  <text x="166" y="184" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">maior streak</text>
-  <text x="304" y="162" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#F8FAFC">1</text>
-  <text x="304" y="184" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">estrelas</text>
-  <text x="442" y="162" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="26" font-weight="700" fill="#F8FAFC">14</text>
-  <text x="442" y="184" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#94A3B8">seguidores</text>
-  <line x1="28" y1="272" x2="572" y2="272" stroke="#334155" stroke-opacity="0.7"/>
-  <rect x="29.0" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="39.5" y="222.0" width="8.5" height="50.0" rx="1.5" fill="#22C55E" fill-opacity="0.79"/>
-  <rect x="49.9" y="215.3" width="8.5" height="56.7" rx="1.5" fill="#22C55E" fill-opacity="0.86"/>
-  <rect x="60.4" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="70.8" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="81.3" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="91.8" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="102.2" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="112.7" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="123.2" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="133.6" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="144.1" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="154.5" y="268.7" width="8.5" height="3.3" rx="1.5" fill="#22C55E" fill-opacity="0.29"/>
-  <rect x="165.0" y="265.3" width="8.5" height="6.7" rx="1.5" fill="#22C55E" fill-opacity="0.32"/>
-  <rect x="175.5" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="185.9" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="196.4" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="206.8" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="217.3" y="255.3" width="8.5" height="16.7" rx="1.5" fill="#22C55E" fill-opacity="0.43"/>
-  <rect x="227.8" y="252.0" width="8.5" height="20.0" rx="1.5" fill="#22C55E" fill-opacity="0.46"/>
-  <rect x="238.2" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="248.7" y="262.0" width="8.5" height="10.0" rx="1.5" fill="#22C55E" fill-opacity="0.36"/>
-  <rect x="259.2" y="268.7" width="8.5" height="3.3" rx="1.5" fill="#22C55E" fill-opacity="0.29"/>
-  <rect x="269.6" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="280.1" y="248.7" width="8.5" height="23.3" rx="1.5" fill="#22C55E" fill-opacity="0.50"/>
-  <rect x="290.5" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="301.0" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="311.5" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="321.9" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="332.4" y="228.7" width="8.5" height="43.3" rx="1.5" fill="#22C55E" fill-opacity="0.71"/>
-  <rect x="342.8" y="252.0" width="8.5" height="20.0" rx="1.5" fill="#22C55E" fill-opacity="0.46"/>
-  <rect x="353.3" y="262.0" width="8.5" height="10.0" rx="1.5" fill="#22C55E" fill-opacity="0.36"/>
-  <rect x="363.8" y="202.0" width="8.5" height="70.0" rx="1.5" fill="#22C55E" fill-opacity="1.00"/>
-  <rect x="374.2" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="384.7" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="395.2" y="218.7" width="8.5" height="53.3" rx="1.5" fill="#22C55E" fill-opacity="0.82"/>
-  <rect x="405.6" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="416.1" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="426.5" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="437.0" y="265.3" width="8.5" height="6.7" rx="1.5" fill="#22C55E" fill-opacity="0.32"/>
-  <rect x="447.5" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="457.9" y="252.0" width="8.5" height="20.0" rx="1.5" fill="#22C55E" fill-opacity="0.46"/>
-  <rect x="468.4" y="258.7" width="8.5" height="13.3" rx="1.5" fill="#22C55E" fill-opacity="0.39"/>
-  <rect x="478.8" y="268.7" width="8.5" height="3.3" rx="1.5" fill="#22C55E" fill-opacity="0.29"/>
-  <rect x="489.3" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="499.8" y="265.3" width="8.5" height="6.7" rx="1.5" fill="#22C55E" fill-opacity="0.32"/>
-  <rect x="510.2" y="265.3" width="8.5" height="6.7" rx="1.5" fill="#22C55E" fill-opacity="0.32"/>
-  <rect x="520.7" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <rect x="531.2" y="265.3" width="8.5" height="6.7" rx="1.5" fill="#22C55E" fill-opacity="0.32"/>
-  <rect x="541.6" y="248.7" width="8.5" height="23.3" rx="1.5" fill="#22C55E" fill-opacity="0.50"/>
-  <rect x="552.1" y="238.7" width="8.5" height="33.3" rx="1.5" fill="#22C55E" fill-opacity="0.61"/>
-  <rect x="562.5" y="270.0" width="8.5" height="2.0" rx="1.5" fill="#22C55E" fill-opacity="0.15"/>
-  <text x="572" y="40" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="11" fill="#334155">atualizado 04/11/2026</text>
+  <rect x="0.5" y="0.5" width="1199" height="519" rx="20" fill="#020617" stroke="#F8FAFC" stroke-opacity="0.1"/>
+  <rect x="0.5" y="0.5" width="1199" height="519" rx="20" fill="url(#g)"/>
+  <text x="48" y="60" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="22" fill="#CBD5E1"><tspan fill="#22C55E">❯</tspan> github --stats</text>
+  <text x="1152" y="60" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="18" fill="#94A3B8" text-anchor="end">updated Nov 04, 2026</text>
+  <text x="48" y="170" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="96" fill="#22C55E" font-weight="700">152</text>
+  <text x="48" y="212" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#F8FAFC" font-weight="600">contributions</text>
+  <text x="48" y="242" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#94A3B8">in the last 12 months</text>
+  <line x1="368" y1="112" x2="368" y2="252" stroke="#334155" stroke-opacity="0.8"/>
+  <text x="400" y="140" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="36" fill="#F8FAFC" font-weight="700">139</text>
+  <text x="400" y="170" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94A3B8">commits</text>
+  <text x="590" y="140" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="36" fill="#F8FAFC" font-weight="700">42</text>
+  <text x="590" y="170" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94A3B8">repositories</text>
+  <text x="780" y="140" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="36" fill="#F8FAFC" font-weight="700">2</text>
+  <text x="780" y="170" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94A3B8">pull requests</text>
+  <text x="970" y="140" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="36" fill="#F8FAFC" font-weight="700">1</text>
+  <text x="970" y="170" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94A3B8">stars earned</text>
+  <text x="400" y="224" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="36" fill="#F8FAFC" font-weight="700">0 days</text>
+  <text x="400" y="254" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94A3B8">current streak</text>
+  <text x="590" y="224" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="36" fill="#F8FAFC" font-weight="700">3 days</text>
+  <text x="590" y="254" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94A3B8">longest streak</text>
+  <text x="780" y="224" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="36" fill="#F8FAFC" font-weight="700">23/52</text>
+  <text x="780" y="254" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94A3B8">active weeks</text>
+  <text x="970" y="224" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="36" fill="#F8FAFC" font-weight="700">14</text>
+  <text x="970" y="254" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#94A3B8">followers</text>
+  <line x1="48" y1="290" x2="1152" y2="290" stroke="#334155" stroke-opacity="0.6"/>
+  <text x="48" y="326" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#CBD5E1" font-weight="600">weekly contributions · last 52 weeks</text>
+  <text x="1152" y="326" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="18" fill="#94A3B8" text-anchor="end">peak 21/week</text>
+  <rect x="50.0" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="71.2" y="380.0" width="17.2" height="70.0" rx="2" fill="#22C55E" fill-opacity="0.81"/>
+  <rect x="92.5" y="370.7" width="17.2" height="79.3" rx="2" fill="#22C55E" fill-opacity="0.88"/>
+  <rect x="113.7" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="134.9" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="156.2" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="177.4" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="198.6" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="219.8" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="241.1" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="262.3" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="283.5" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="304.8" y="445.3" width="17.2" height="4.7" rx="2" fill="#22C55E" fill-opacity="0.38"/>
+  <rect x="326.0" y="440.7" width="17.2" height="9.3" rx="2" fill="#22C55E" fill-opacity="0.41"/>
+  <rect x="347.2" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="368.5" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="389.7" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="410.9" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="432.2" y="426.7" width="17.2" height="23.3" rx="2" fill="#22C55E" fill-opacity="0.50"/>
+  <rect x="453.4" y="422.0" width="17.2" height="28.0" rx="2" fill="#22C55E" fill-opacity="0.54"/>
+  <rect x="474.6" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="495.8" y="436.0" width="17.2" height="14.0" rx="2" fill="#22C55E" fill-opacity="0.44"/>
+  <rect x="517.1" y="445.3" width="17.2" height="4.7" rx="2" fill="#22C55E" fill-opacity="0.38"/>
+  <rect x="538.3" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="559.5" y="417.3" width="17.2" height="32.7" rx="2" fill="#22C55E" fill-opacity="0.57"/>
+  <rect x="580.8" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="602.0" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="623.2" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="644.5" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="665.7" y="389.3" width="17.2" height="60.7" rx="2" fill="#22C55E" fill-opacity="0.75"/>
+  <rect x="686.9" y="422.0" width="17.2" height="28.0" rx="2" fill="#22C55E" fill-opacity="0.54"/>
+  <rect x="708.2" y="436.0" width="17.2" height="14.0" rx="2" fill="#22C55E" fill-opacity="0.44"/>
+  <rect x="729.4" y="352.0" width="17.2" height="98.0" rx="2" fill="#22C55E" fill-opacity="1.00"/>
+  <rect x="750.6" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="771.8" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="793.1" y="375.3" width="17.2" height="74.7" rx="2" fill="#22C55E" fill-opacity="0.85"/>
+  <rect x="814.3" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="835.5" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="856.8" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="878.0" y="440.7" width="17.2" height="9.3" rx="2" fill="#22C55E" fill-opacity="0.41"/>
+  <rect x="899.2" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="920.5" y="422.0" width="17.2" height="28.0" rx="2" fill="#22C55E" fill-opacity="0.54"/>
+  <rect x="941.7" y="431.3" width="17.2" height="18.7" rx="2" fill="#22C55E" fill-opacity="0.47"/>
+  <rect x="962.9" y="445.3" width="17.2" height="4.7" rx="2" fill="#22C55E" fill-opacity="0.38"/>
+  <rect x="984.2" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="1005.4" y="440.7" width="17.2" height="9.3" rx="2" fill="#22C55E" fill-opacity="0.41"/>
+  <rect x="1026.6" y="440.7" width="17.2" height="9.3" rx="2" fill="#22C55E" fill-opacity="0.41"/>
+  <rect x="1047.8" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <rect x="1069.1" y="440.7" width="17.2" height="9.3" rx="2" fill="#22C55E" fill-opacity="0.41"/>
+  <rect x="1090.3" y="417.3" width="17.2" height="32.7" rx="2" fill="#22C55E" fill-opacity="0.57"/>
+  <rect x="1111.5" y="403.3" width="17.2" height="46.7" rx="2" fill="#22C55E" fill-opacity="0.66"/>
+  <rect x="1132.8" y="447.0" width="17.2" height="3.0" rx="2" fill="#334155" fill-opacity="0.50"/>
+  <text x="134.9" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Dec</text>
+  <text x="219.8" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Jan</text>
+  <text x="304.8" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Feb</text>
+  <text x="389.7" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Mar</text>
+  <text x="495.8" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Apr</text>
+  <text x="580.8" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">May</text>
+  <text x="686.9" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Jun</text>
+  <text x="771.8" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Jul</text>
+  <text x="856.8" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Aug</text>
+  <text x="962.9" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Sep</text>
+  <text x="1047.8" y="480" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">Oct</text>
 </svg>
