@@ -9,38 +9,38 @@
   <text x="28" y="40" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" fill="#94A3B8"><tspan fill="#22C55E">❯</tspan> linguagens --top</text>
   <clipPath id="bar"><rect x="28" y="72" width="544" height="12" rx="6"/></clipPath>
   <g clip-path="url(#bar)"><rect x="28" y="72" width="544" height="12" fill="#0E1223"/>
-    <rect x="28.0" y="72" width="146.8" height="12" fill="#22C55E"/>
-    <rect x="174.3" y="72" width="144.6" height="12" fill="#38BDF8"/>
-    <rect x="318.4" y="72" width="138.8" height="12" fill="#A78BFA"/>
-    <rect x="456.7" y="72" width="96.1" height="12" fill="#F59E0B"/>
-    <rect x="552.3" y="72" width="10.9" height="12" fill="#F472B6"/>
-    <rect x="562.7" y="72" width="9.8" height="12" fill="#94A3B8"/>
+    <rect x="28.0" y="72" width="146.3" height="12" fill="#22C55E"/>
+    <rect x="173.8" y="72" width="144.1" height="12" fill="#38BDF8"/>
+    <rect x="317.4" y="72" width="138.3" height="12" fill="#A78BFA"/>
+    <rect x="455.3" y="72" width="95.8" height="12" fill="#F59E0B"/>
+    <rect x="550.5" y="72" width="12.7" height="12" fill="#F472B6"/>
+    <rect x="562.8" y="72" width="9.7" height="12" fill="#94A3B8"/>
   </g>
   <circle cx="34" cy="125" r="6" fill="#22C55E"/>
   <text x="50" y="130" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#CBD5E1">JavaScript</text>
-  <text x="280" y="130" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">26.9%</text>
+  <text x="280" y="130" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">26.8%</text>
   <rect x="50" y="140" width="230" height="3" rx="1.5" fill="#0E1223"/>
-  <rect x="50" y="140" width="61.9" height="3" rx="1.5" fill="#22C55E" fill-opacity="0.8"/>
+  <rect x="50" y="140" width="61.7" height="3" rx="1.5" fill="#22C55E" fill-opacity="0.8"/>
   <circle cx="314" cy="125" r="6" fill="#38BDF8"/>
   <text x="330" y="130" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#CBD5E1">HTML</text>
-  <text x="560" y="130" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">26.5%</text>
+  <text x="560" y="130" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">26.4%</text>
   <rect x="330" y="140" width="230" height="3" rx="1.5" fill="#0E1223"/>
-  <rect x="330" y="140" width="60.9" height="3" rx="1.5" fill="#38BDF8" fill-opacity="0.8"/>
+  <rect x="330" y="140" width="60.7" height="3" rx="1.5" fill="#38BDF8" fill-opacity="0.8"/>
   <circle cx="34" cy="179" r="6" fill="#A78BFA"/>
   <text x="50" y="184" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#CBD5E1">TypeScript</text>
-  <text x="280" y="184" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">25.4%</text>
+  <text x="280" y="184" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">25.3%</text>
   <rect x="50" y="194" width="230" height="3" rx="1.5" fill="#0E1223"/>
-  <rect x="50" y="194" width="58.5" height="3" rx="1.5" fill="#A78BFA" fill-opacity="0.8"/>
+  <rect x="50" y="194" width="58.3" height="3" rx="1.5" fill="#A78BFA" fill-opacity="0.8"/>
   <circle cx="314" cy="179" r="6" fill="#F59E0B"/>
   <text x="330" y="184" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#CBD5E1">CSS</text>
-  <text x="560" y="184" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">17.6%</text>
+  <text x="560" y="184" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">17.5%</text>
   <rect x="330" y="194" width="230" height="3" rx="1.5" fill="#0E1223"/>
-  <rect x="330" y="194" width="40.4" height="3" rx="1.5" fill="#F59E0B" fill-opacity="0.8"/>
+  <rect x="330" y="194" width="40.3" height="3" rx="1.5" fill="#F59E0B" fill-opacity="0.8"/>
   <circle cx="34" cy="233" r="6" fill="#F472B6"/>
   <text x="50" y="238" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#CBD5E1">Python</text>
-  <text x="280" y="238" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">1.9%</text>
+  <text x="280" y="238" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">2.2%</text>
   <rect x="50" y="248" width="230" height="3" rx="1.5" fill="#0E1223"/>
-  <rect x="50" y="248" width="4.4" height="3" rx="1.5" fill="#F472B6" fill-opacity="0.8"/>
+  <rect x="50" y="248" width="5.2" height="3" rx="1.5" fill="#F472B6" fill-opacity="0.8"/>
   <circle cx="314" cy="233" r="6" fill="#94A3B8"/>
   <text x="330" y="238" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#CBD5E1">Outras</text>
   <text x="560" y="238" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#F8FAFC">1.7%</text>
