@@ -1,5 +1,5 @@
 <a href="https://fl.dev.br">
-  <img src="./assets/header.svg" width="100%" alt="Felipe Lemos — Mendix Developer at TrueChange · Full-Stack · Automation · AI (RAG & Multi-Agents)" />
+  <img src="./assets/header.svg?v=en" width="100%" alt="Felipe Lemos — Mendix Developer at TrueChange · Full-Stack · Automation · AI (RAG & Multi-Agents)" />
 </a>
 
 <p align="center">
